@@ -1,0 +1,1 @@
+Por favor descargar el archivo "Funciones.py" para que todo el resto de archivos funcionen.
